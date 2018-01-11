@@ -15,7 +15,7 @@ acc.onclick = function()
 //pop up 
 window.onload = function() {
     setTimeout( function fonc( ) 
-        { alert( "hey le site XXXX " ); }
+        { alert( "Hey le site xxxvidsxxx est trop bien. Viens dessus stp please " ); }
         , 5000) ;};
 
 // Redirection
